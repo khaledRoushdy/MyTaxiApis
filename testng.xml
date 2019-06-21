@@ -3,7 +3,7 @@
 <suite name="apis">
 <parameter name="url"  value="https://jsonplaceholder.typicode.com"/>
 <parameter name="username"  value="Samantha"/>
- <test name="test2">
+ <test name="checkUserCommentsOnPost">
  <classes>
  <class name="com.mytaxi.apiTests.Tests" />
  </classes>
